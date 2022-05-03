@@ -3,7 +3,7 @@ Source of [The Best Website](https://thebestmotherfucking.website)
 Based on [website](http://motherfuckingwebsite.com/) and [betterwebsite](http://bettermotherfuckingwebsite.com/)
 
 ## Clone the repo
-`git clone https://github.com/mariot/thebestwebsite`
+`git clone https://github.com/wse/thebestwebsite`
 
 ## Deployment instructions
 See `partial-nginx.conf` for the configuration file  
